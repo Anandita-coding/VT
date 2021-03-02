@@ -29,7 +29,7 @@ function draw() {
   rotate(scAngle)
   stroke(0,0,255)
   strokeWeight(4)
-  line(0,0,140,0)
+  line(0,0,160,0)
   pop();
 
   push();
@@ -45,7 +45,7 @@ function draw() {
   rotate(hrAngle)
   stroke(255,0,0)
   strokeWeight(7)
-  line(0,0,100,0)
+  line(0,0,90,0)
   pop();
 
 
